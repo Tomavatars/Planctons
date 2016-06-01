@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "F88731AF-9A47-53A9-5A7E-D988D709706C",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Humanoplancton",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "FMODStudio",
+			"Enabled": true
+		}
+	]
+}
